@@ -1,0 +1,11 @@
+PyQt6
+torch
+torchvision
+pillow
+requests
+volcengine-python-sdk[ark]
+python-dotenv
+opencv-python
+alibabacloud-imagerecog20190930
+alibabacloud-tea-openapi
+alibabacloud-tea-
