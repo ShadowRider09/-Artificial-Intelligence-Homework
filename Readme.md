@@ -23,7 +23,7 @@ gui/
 ├── part_two.py         # 图片多类别细分
 ├── similarity.py       # 图片查重分组
 ├── test.py             # 主界面与功能入口（PyQt6）
-├── resnet18_classified.pth  # 细分类模型权重（需自行准备）
+├── resnet18_classified.pth  # 细分类模型权重
 ├── .env                # 环境变量配置（如API Key）
 └── ...
 ```
